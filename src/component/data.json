@@ -1,0 +1,54 @@
+{
+    "area1": {
+        "feb": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "10%", "recordedValue2": "20%", "recordedValue3": "10%"}
+        },
+        "march": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "10%", "recordedValue2": "10%", "recordedValue3": "10%"}
+        },
+        "april": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "1", "recordedValue2": "1", "recordedValue3": "1"}
+        },
+        "may": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "1", "recordedValue2": "2", "recordedValue3": "3"}
+        },
+        "jun": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "1", "recordedValue2": "1", "recordedValue3": "1"}
+        },
+        "jul": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "2", "recordedValue2": "2", "recordedValue3": "2"}
+        }
+    },
+    "area2": {
+        "feb": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "10%", "recordedValue2": "10%", "recordedValue3": "150%"}
+        },
+        "march": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "0%", "recordedValue2": "0%", "recordedValue3": "0%"}
+        },
+        "april": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "2", "recordedValue2": "2", "recordedValue3": "2"}
+        },
+        "may": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "3", "recordedValue2": "3", "recordedValue3": "3"}
+        },
+        "jun": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "33", "recordedValue2": "3", "recordedValue3": "3"}
+        },
+        "jul": {
+            "values": {"value1": "", "value2": "", "value3": ""},
+            "recordedValues": {"recordedValue1": "2", "recordedValue2": "24", "recordedValue3": "4"}
+        }
+    }
+}
